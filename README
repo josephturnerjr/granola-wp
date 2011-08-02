@@ -1,4 +1,5 @@
 Just a super-simple Wordpress plugin that creates a sidebar widget with your Granola Share information in it. My first WP plugin. 
 
 INSTALLATION
-Copy the whole granola directory (what little of it there is) into [WORDPRESS ROOT]/wp-content/plugins and enable the plugin in your administrator interface.
+First, modify granola.php and put your Granola Share ID in place of the [YOUR GRANOLA SHARE] placeholder on line 36.
+Then, copy the whole granola directory (what little of it there is) into [WORDPRESS ROOT]/wp-content/plugins and enable the plugin in your administrator interface.

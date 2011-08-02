@@ -33,7 +33,7 @@ function draw_gshare()
       }
     </script>
     <!-- The server response will be a call to the gshare_callback function with the response data as an argument -->
-    <script src="http://api.grano.la/rest/v1/services/savingscalculator/3112994/text" type="text/javascript"></script>
+    <script src="http://api.grano.la/rest/v1/services/savingscalculator/[YOUR GRANOLA SHARE ID]/text" type="text/javascript"></script>
 <?php  
 }
  
